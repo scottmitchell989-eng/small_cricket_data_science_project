@@ -1,0 +1,28 @@
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+
+# Temporary outputs
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Downloaded Cricsheet data
+cricsheet_json/
+
+# Downloaded Cricsheet data
+notebooks/cricsheet_json/
+
+# Downloaded archives
+*.zip
