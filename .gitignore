@@ -26,3 +26,6 @@ notebooks/cricsheet_json/
 
 # Downloaded archives
 *.zip
+
+# Downloaded raw datasets
+data/raw/
